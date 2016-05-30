@@ -39,7 +39,7 @@ var Movie = function (info){
   };
 };
 var info = {
-  title: 'Batman',
+  title: 'Ironman',
   timeOfPlay: 1600,
   maxCapacity: 20,
   seats: [
